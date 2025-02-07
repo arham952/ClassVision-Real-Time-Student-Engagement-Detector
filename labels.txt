@@ -1,0 +1,3 @@
+0 Present
+1 RaisedHand
+2 Absent
